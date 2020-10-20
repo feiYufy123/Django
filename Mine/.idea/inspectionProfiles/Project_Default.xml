@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pymysql" />
+          <option value="project.project.urls.django" />
+          <option value="project.myApp.views.django" />
+          <option value="project.myApp.views.sqlalchemy" />
+          <option value="project.myApp.views.myApp" />
+          <option value="pandas" />
+          <option value="project.myApp.urls.myApp" />
+          <option value="project.myApp.urls.django" />
+          <option value="project.project.celery.celery" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
